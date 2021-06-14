@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "application", "Api.Applicat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Api.Domain\Domain.csproj", "{1D92D701-AD7C-426D-9219-344615DC4AC2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrossCutting", "Api.CrossCutting\CrossCutting.csproj", "{AAEB1D91-DA4C-471F-9A68-533C50E5684A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -44,5 +46,17 @@ Global
 		{1D92D701-AD7C-426D-9219-344615DC4AC2}.Release|x64.Build.0 = Release|Any CPU
 		{1D92D701-AD7C-426D-9219-344615DC4AC2}.Release|x86.ActiveCfg = Release|Any CPU
 		{1D92D701-AD7C-426D-9219-344615DC4AC2}.Release|x86.Build.0 = Release|Any CPU
+		{AAEB1D91-DA4C-471F-9A68-533C50E5684A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAEB1D91-DA4C-471F-9A68-533C50E5684A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAEB1D91-DA4C-471F-9A68-533C50E5684A}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{AAEB1D91-DA4C-471F-9A68-533C50E5684A}.Debug|x64.Build.0 = Debug|Any CPU
+		{AAEB1D91-DA4C-471F-9A68-533C50E5684A}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{AAEB1D91-DA4C-471F-9A68-533C50E5684A}.Debug|x86.Build.0 = Debug|Any CPU
+		{AAEB1D91-DA4C-471F-9A68-533C50E5684A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAEB1D91-DA4C-471F-9A68-533C50E5684A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAEB1D91-DA4C-471F-9A68-533C50E5684A}.Release|x64.ActiveCfg = Release|Any CPU
+		{AAEB1D91-DA4C-471F-9A68-533C50E5684A}.Release|x64.Build.0 = Release|Any CPU
+		{AAEB1D91-DA4C-471F-9A68-533C50E5684A}.Release|x86.ActiveCfg = Release|Any CPU
+		{AAEB1D91-DA4C-471F-9A68-533C50E5684A}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
